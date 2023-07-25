@@ -9,6 +9,6 @@ ScrollReveal().reveal('.featured-text-2', { delay: 300, origin: 'right'});
 ScrollReveal().reveal('.img-about,.logo', { delay: 400, origin: 'right'});
 ScrollReveal().reveal('.tex-about', { delay: 500, origin: 'left'});
 ScrollReveal().reveal('.list', { delay: 300, origin: 'top'});
-// ScrollReveal().reveal('.project', { delay: 200, distance:'40px'});
+ScrollReveal().reveal('.project', { delay: 200, distance:'40px'});
 ScrollReveal().reveal('.section-heading', { delay: 200, origin: 'left', distance:'30px'});
 ScrollReveal().reveal('.service', { delay: 300, origin: 'right'});
