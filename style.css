@@ -914,14 +914,14 @@ section ul li.ative{
   transition: filter 1.5s;
 }
 
-.slideshow-link:nth-child(1),
+/* .slideshow-link:nth-child(1),
 .slideshow-link:nth-child(5) {
   transition: width 0.5s, opacity 0.5s;
-}
+} */
 
-.slideshow-link:nth-child(3) {
+/* .slideshow-link:nth-child(3) {
   transition: filter 0.5s;
-}
+} */
 
 .slideshow-link img {
   width: 100%;
